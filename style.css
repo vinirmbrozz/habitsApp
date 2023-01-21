@@ -10,15 +10,15 @@ body {
   height: 100vh;
 }
 button {
-  /*Botão*
-    padding: 16px 24px;
-    gap: 12px;
-    border: 1px solid #8B5CF6;
-    border-radius: 8px;
-    background-color: transparent;
-    color: white;
-    
-    /* Fonte */
+  /*Botão*/
+  padding: 16px 24px;
+  gap: 12px;
+  border: 1px solid #8b5cf6;
+  border-radius: 8px;
+  background-color: transparent;
+  color: white;
+
+  /* Fonte */
   display: flex;
   align-items: center;
   font-family: "Inter";
